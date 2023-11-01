@@ -1,6 +1,6 @@
 # Castle-Climbers
  
-This is the project from 'Learn Godot 2D Platformer V1' by Christine Coomans
+This is the project from 'Learn Godot 4 A Beginners Guide to Building a 2D Platformer from Start to Finish' by Christine Coomans
 
 I bought the book here https://ko-fi.com/s/75433f1d4b
 
